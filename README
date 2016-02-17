@@ -1,0 +1,15 @@
+
+-----------------------------
+
+How to generate document:
+Step 1. doxygen Doxygen
+Then open index.html in doc/.
+
+-----------------------------
+
+How to build source code:
+Step 1. $cd build
+Step 2. $cmake ../  ---> generate "Makefile"
+Step 3. $make       ---> generate "reco_mme" execute file
+
+-----------------------------
